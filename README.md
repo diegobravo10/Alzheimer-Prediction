@@ -21,4 +21,6 @@ Este repositorio contiene cuatro cuadernos que desarrollan un **modelo optimizad
 
 ---
 
+[Dataset Alzheimer](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
+
 
